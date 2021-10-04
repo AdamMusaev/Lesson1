@@ -1,5 +1,6 @@
 # Lesson1
 git bomba
 Vsem pirivet
-vam toje pirivet
+vam toje 
 kak jizn'? 
+vam toje salam
