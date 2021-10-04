@@ -2,4 +2,4 @@
 git bomba
 Vsem pirivet
 vam toje pirivet
-kak dela?
+kak jizn'? 
