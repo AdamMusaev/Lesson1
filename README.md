@@ -1,6 +1,6 @@
 # Lesson1
-g
-it bomba
+git bomba
 Vsem pirivet
 vam toje pirivet
 kak jizn',? 
+
