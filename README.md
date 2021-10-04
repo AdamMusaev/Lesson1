@@ -1,5 +1,6 @@
 # Lesson1
-git bomba
+g
+it bomba
 Vsem pirivet
 vam toje pirivet
-kak jizn'? 
+kak jizn',? 
